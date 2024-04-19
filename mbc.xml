@@ -5,10 +5,6 @@
     <icon src="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/MBC_1_thumb_chanel/original/MBC_1_thumb_chanel.jpg" />
     <url>http://www.shahid.mbc.net</url>
   </channel>
-  <channel id="MBC 3">
-    <display-name lang="ar">MBC 3</display-name>
-    <url>http://www.seevii.com</url>
-  </channel>
   <channel id="EN: MBC4">
     <display-name lang="ar">EN: MBC4</display-name>
     <icon src="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/mbc4_thumb_chanel/original/mbc4_thumb_chanel.jpg" />
@@ -17,6 +13,41 @@
   <channel id="EN: MBC Drama">
     <display-name lang="ar">EN: MBC Drama</display-name>
     <icon src="https://shahid.mbc.net/mediaObject/Curation_2022/Hero/FEB/mbcdrama_thumb_chanelplus/original/mbcdrama_thumb_chanelplus.jpg" />
+    <url>http://www.shahid.mbc.net</url>
+  </channel>
+  <channel id="EN: MBC Plus Drama">
+    <display-name lang="ar">EN: MBC Plus Drama</display-name>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/mbcdrama_thumb_chanel/original/mbcdrama_thumb_chanel.jpg" />
+    <url>http://www.shahid.mbc.net</url>
+  </channel>
+  <channel id="EN: MBC Masr">
+    <display-name lang="ar">EN: MBC Masr</display-name>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/mbcegypt_thumb_chanel/original/mbcegypt_thumb_chanel.jpg" />
+    <url>http://www.shahid.mbc.net</url>
+  </channel>
+  <channel id="EN: MBC Bollywood">
+    <display-name lang="ar">EN: MBC Bollywood</display-name>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/mbcbolly_thumb_chanel/original/mbcbolly_thumb_chanel.jpg" />
+    <url>http://www.shahid.mbc.net</url>
+  </channel>
+  <channel id="EN: MBC Iraq">
+    <display-name lang="ar">EN: MBC Iraq</display-name>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/MBC_Iraq_thumb_chanel/original/MBC_Iraq_thumb_chanel.jpg" />
+    <url>http://www.shahid.mbc.net</url>
+  </channel>
+  <channel id="EN: MBC Masr2">
+    <display-name lang="ar">EN: MBC Masr2</display-name>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/mbcegyp2t_thumb_chanel/original/mbcegyp2t_thumb_chanel.jpg" />
+    <url>http://www.shahid.mbc.net</url>
+  </channel>
+  <channel id="EN: MBC Persia">
+    <display-name lang="ar">EN: MBC Persia</display-name>
+    <icon src="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/MBC_persia_thumb_chanel/original/MBC_persia_thumb_chanel.jpg" />
+    <url>http://www.shahid.mbc.net</url>
+  </channel>
+  <channel id="EN: Al Arabiya">
+    <display-name lang="ar">EN: Al Arabiya</display-name>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2022/Hero/JAN/Alarabiya-new-Channel-Thumbs/original/Alarabiya-new-Channel-Thumbs.jpg" />
     <url>http://www.shahid.mbc.net</url>
   </channel>
   <programme start="20240419000000 +0000" stop="20240419001900 +0000" channel="EN: MBC1">
@@ -996,5 +1027,1903 @@
     <category lang="en">Drama</category>
     <category lang="en">Social</category>
     <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20240419000000 +0000" stop="20240419001100 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Shajar Al Hoor</title>
+    <desc lang="en">Eleni gets an unexpected proposal from Kipreos. Miltiadis reveals the real reason why his son hanged himself to Prousalis.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20240419001100 +0000" stop="20240419005500 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Shajar Al Hoor</title>
+    <desc lang="en">Doukas asks Meletis to prove that the culprit is the one he’s been suspecting. Meanwhile, Mirsini decides to go to Eleni’s house to pack Sergios’s stuff.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20240419005500 +0000" stop="20240419063000 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240419063000 +0000" stop="20240419071400 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Shajar Al Hoor</title>
+    <desc lang="en">Doukas asks Meletis to prove that the culprit is the one he’s been suspecting. Meanwhile, Mirsini decides to go to Eleni’s house to pack Sergios’s stuff.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20240419071400 +0000" stop="20240419075700 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Shajar Al Hoor</title>
+    <desc lang="en">Asimina tries to evade Drosso’s attempts to find out whom she met when she snuck out at night. Konstantis and Meletis capture Giannos and bring him to Doukas.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20240419075700 +0000" stop="20240419084100 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Shajar Al Hoor</title>
+    <desc lang="en">News about Giannos takes everyone by surprise, as Miltiadis and Mirsini refuse to believe it.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20240419084100 +0000" stop="20240419092900 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Shajar Al Hoor</title>
+    <desc lang="en">Giannos’s funeral plunges the village into grief. Guilt takes its toll on Droso. Nikiforos makes Asimina a proposal that could upset her.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20240419092900 +0000" stop="20240419101700 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Shajar Al Hoor</title>
+    <desc lang="en">Eleni gets an unexpected proposal from Kipreos. Miltiadis reveals the real reason why his son hanged himself to Prousalis.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20240419101700 +0000" stop="20240419105700 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Sane Al Ahlam</title>
+    <desc lang="en">Sami continues his research about Egypt and visits historical landmarks to find a way to decipher the symbols as the secret agency keeps an on him.\r\n.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Fiction</category>
+    <icon src="https://shahid.mbc.net/mediaObject/New-Thumbs/Karim2020-33/Sane--Al-Ahlam-thumb-with-logo/original/Sane--Al-Ahlam-thumb-with-logo.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20240419105700 +0000" stop="20240419113700 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Sane Al Ahlam</title>
+    <desc lang="en">Sami pursues a new research topic as he arrives in Lebanon and meets Deema after a long time. Later, Sami starts a new job as a physics professor at the university owned by his friend Qusai.\r\n.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Fiction</category>
+    <icon src="https://shahid.mbc.net/mediaObject/New-Thumbs/Karim2020-33/Sane--Al-Ahlam-thumb-with-logo/original/Sane--Al-Ahlam-thumb-with-logo.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240419113700 +0000" stop="20240419121700 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Sane Al Ahlam</title>
+    <desc lang="en">While Sami starts his new job, a member of the new organization introduces herself to Sami’s sister as part of the plan.\r\n.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Fiction</category>
+    <icon src="https://shahid.mbc.net/mediaObject/New-Thumbs/Karim2020-33/Sane--Al-Ahlam-thumb-with-logo/original/Sane--Al-Ahlam-thumb-with-logo.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20240419121700 +0000" stop="20240419125000 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Sane Al Ahlam</title>
+    <desc lang="en">When Sami visits Qusai and his wife, he discovers shocking things about their relationship. Later, Sami bonds with Luna.\r\n.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Fiction</category>
+    <icon src="https://shahid.mbc.net/mediaObject/New-Thumbs/Karim2020-33/Sane--Al-Ahlam-thumb-with-logo/original/Sane--Al-Ahlam-thumb-with-logo.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20240419125000 +0000" stop="20240419133000 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Sane Al Ahlam</title>
+    <desc lang="en">While Sami receives new evidence about the manuscripts, Heba and Deema’s relationship grows stronger.\r\n.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Fiction</category>
+    <icon src="https://shahid.mbc.net/mediaObject/New-Thumbs/Karim2020-33/Sane--Al-Ahlam-thumb-with-logo/original/Sane--Al-Ahlam-thumb-with-logo.jpg" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20240419133000 +0000" stop="20240419140700 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Al Mizan</title>
+    <desc lang="en">Nuha tries to prove Shareef’s innocence. Khaled receives a threat. Sheikh Aref tells Nuha Dina’s last words.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action</category>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2022/Hero/JULY/Al_Mezan_Tump_EN/original/Al_Mezan_Tump_EN.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20240419140700 +0000" stop="20240419144500 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Al Mizan</title>
+    <desc lang="en">Sheikh Aref tells Nuha that Dina had written her diaries before she died and that they are somewhere in her old house. Later, Nuha asks Muhsin to accompany her to Dina’s apartment.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action</category>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2022/Hero/JULY/Al_Mezan_Tump_EN/original/Al_Mezan_Tump_EN.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240419144500 +0000" stop="20240419152100 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Al Mizan</title>
+    <desc lang="en">During the trial, Nuha finds out that the diary is not with her. When the judge refuses to postpone the hearing, Nuha goes home to look for the diary.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action</category>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2022/Hero/JULY/Al_Mezan_Tump_EN/original/Al_Mezan_Tump_EN.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20240419152100 +0000" stop="20240419155200 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Al Mizan</title>
+    <desc lang="en">Nuha has a dream about Shareef’s execution and later suffers a mental breakdown and goes into severe depression. Meanwhile, Shareef’s companies face a dilemma while people in high governmental positions try to save the situation.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action</category>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2022/Hero/JULY/Al_Mezan_Tump_EN/original/Al_Mezan_Tump_EN.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20240419155200 +0000" stop="20240419163200 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Al Mizan</title>
+    <desc lang="en">After Nuha comes round, she finds out that Khaled drugged her and tries to reach out to anyone for help.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action</category>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2022/Hero/JULY/Al_Mezan_Tump_EN/original/Al_Mezan_Tump_EN.jpg" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20240419163200 +0000" stop="20240419171600 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">عائلة عبد الحميد حافظ</title>
+    <desc lang="en">Mishari returns holding a grudge while Yaacoub prepares for a meeting. Tension boils between Souad and Essam’s wife.(n)</desc>
+    <date>2022</date>
+    <icon src="https://shahid.mbc.net/mediaObject/2022/Mar/Amjad/untitled/Thump_Aelat_Abd_Hameed_v2_en/original/Thump_Aelat_Abd_Hameed_v2_en.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20240419171600 +0000" stop="20240419175800 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">عائلة عبد الحميد حافظ</title>
+    <desc lang="en">While Yaacoub begins his private lessons, Nadia receives messages from an unknown source. Zubeida’s actions towards Majid leave everybody frustrated.(n)</desc>
+    <date>2022</date>
+    <icon src="https://shahid.mbc.net/mediaObject/2022/Mar/Amjad/untitled/Thump_Aelat_Abd_Hameed_v2_en/original/Thump_Aelat_Abd_Hameed_v2_en.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240419175800 +0000" stop="20240419183800 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">عائلة عبد الحميد حافظ</title>
+    <desc lang="en">As Ibtissam grows increasingly concerned about her daughter, Majid's condition worsens. Essam is disturbed by Fayez's return.(n)</desc>
+    <date>2022</date>
+    <icon src="https://shahid.mbc.net/mediaObject/2022/Mar/Amjad/untitled/Thump_Aelat_Abd_Hameed_v2_en/original/Thump_Aelat_Abd_Hameed_v2_en.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20240419183800 +0000" stop="20240419192500 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">عائلة عبد الحميد حافظ</title>
+    <desc lang="en">Ibtissam confronts Essam after the competition. Faten grows suspicious of Nader while Yaacoub tries to get closer to her. Sameer is blackmailed.(n)</desc>
+    <date>2022</date>
+    <icon src="https://shahid.mbc.net/mediaObject/2022/Mar/Amjad/untitled/Thump_Aelat_Abd_Hameed_v2_en/original/Thump_Aelat_Abd_Hameed_v2_en.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20240419192500 +0000" stop="20240419201200 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Shajar Al Hoor</title>
+    <desc lang="en">Nikiforos’s decision shocks Doukas and Mirsini. Asimina agrees to meet a potential suitor. Elsewhere, Nestoras is determined to get some answers.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20240419201200 +0000" stop="20240419205300 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Ahlam Wa Domou'</title>
+    <desc lang="en">Asman takes a daring step for Arman, as Alia tries to apologize to the latter for her actions.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">E155</episode-num>
+  </programme>
+  <programme start="20240419205300 +0000" stop="20240419213300 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Ahlam Wa Domou'</title>
+    <desc lang="en">While Asman tells him she’s ready to travel to Canada, Arman feels guilty about what he’s doing to her and Alia. Later, a date is set for Alia and Kabir's engagement.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">E156</episode-num>
+  </programme>
+  <programme start="20240419213300 +0000" stop="20240419221400 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Ahlam Wa Domou'</title>
+    <desc lang="en">Alia claims that Suraj tried to harm her. Arman carries out a shocking act towards Asman. Sukhi warns Alia to stay away from Arman.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">E157</episode-num>
+  </programme>
+  <programme start="20240419221400 +0000" stop="20240419225500 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Ahlam Wa Domou'</title>
+    <desc lang="en">Arman rethinks his decision to tell Asman the truth about her father. Asman reveals a jaw-dropping matter to Alia. Later, Sukhi suggests that Alia marry Kabir.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">E158</episode-num>
+  </programme>
+  <programme start="20240419225500 +0000" stop="20240419233900 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Ahlam Wa Domou'</title>
+    <desc lang="en">Deepak asks Arman to keep the surgery he’s undertaking secret. Asman plans a surprise for Arman and Alia, as the latter tries to get back at Asman.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">E159</episode-num>
+  </programme>
+  <programme start="20240419233900 +0000" stop="20240419235959 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240420000000 +0000" stop="20240420002600 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Shajar Al Hoor</title>
+    <desc lang="en">Nikiforos’s decision shocks Doukas and Mirsini. Asimina agrees to meet a potential suitor. Elsewhere, Nestoras is determined to get some answers.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20240420002600 +0000" stop="20240420010800 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Mohamed Ali Road</title>
+    <desc lang="en">Najat sets up a plan to get rid of Asya while everyone expects the return of Hussein. A shocking disappearance occurs in the middle of the night.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Social</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2021/Bedour/bedour2/Bedour4/Thump_Mohamed_Ali_Road2/original/Thump_Mohamed_Ali_Road2.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20240420010800 +0000" stop="20240420014300 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Mohamed Ali Road</title>
+    <desc lang="en">Abdulwahab realizes he is being watched and is about to get into trouble. A series of unusual events take place at Shihab’s house in the presence of Sultana.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Social</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2020/taha/Thump_Mohamad_Ali_Road_v2/original/Thump_Mohamad_Ali_Road_v2.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240420014300 +0000" stop="20240420022100 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Mohamed Ali Road</title>
+    <desc lang="en">As Najla grows closer to figuring out the content of the letter, tension boils over with Hussein. Mishari’s first mission succeeds.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Social</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2021/Bedour/bedour2/Bedour4/Thump_Mohamed_Ali_Road2/original/Thump_Mohamed_Ali_Road2.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20240420022100 +0000" stop="20240420025800 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Mohamed Ali Road</title>
+    <desc lang="en">Bou Abdul Aziz decides to return to Kuwait while terror fills Shihab’s house. Yassin gets closer to Ghazi, trying to convince him with a revenge plan.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Social</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2021/Bedour/bedour2/Bedour4/Thump_Mohamed_Ali_Road2/original/Thump_Mohamed_Ali_Road2.jpg" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20240420025800 +0000" stop="20240420034100 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Mohamed Ali Road</title>
+    <desc lang="en">Mishari finds Abdul Wahab’s will and discovers the secret of the hidden treasure. Yassin asks for Ghazi’s help regarding Najla, who makes a critical decision.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Suspense</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20240420034100 +0000" stop="20240420041100 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Dayman Amer</title>
+    <desc lang="en">Lutfi introduces Amer to all the teachers and students. Bahgat, the archivist, brings Amer’s attention to Karim, who is being bullied for the stunt he pulled.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2021/Bedour/bedour2/Bedour4/Thump_Daymn_Amer/original/Thump_Daymn_Amer.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20240420041100 +0000" stop="20240420043900 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Dayman Amer</title>
+    <desc lang="en">Amer finds himself in a difficult situation following the driver’s arrest. Fadwa gets in a fight with Fayez over the music he plays in his class.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2021/Bedour/bedour2/Bedour4/Thump_Daymn_Amer/original/Thump_Daymn_Amer.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240420043900 +0000" stop="20240420050900 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Dayman Amer</title>
+    <desc lang="en">Amer receives the file of Farid, who has a hard time asking his father to come to the school. Fadwa falls victim to a drive-by theft.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2021/Bedour/bedour2/Bedour4/Thump_Daymn_Amer/original/Thump_Daymn_Amer.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20240420050900 +0000" stop="20240420054500 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Dayman Amer</title>
+    <desc lang="en">Farid tries to trick Amer and Zahra by hiring an actor. Sama is bullied for her vitiligo, but Mahytem stands by her side. Karim starts a fight with Farid.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2021/Bedour/bedour2/Bedour4/Thump_Daymn_Amer/original/Thump_Daymn_Amer.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20240420054500 +0000" stop="20240420063000 +0000" channel="EN: MBC Plus Drama">
+    <title lang="en">Shajar Al Hoor</title>
+    <desc lang="en">Nikiforos’s decision shocks Doukas and Mirsini. Asimina agrees to meet a potential suitor. Elsewhere, Nestoras is determined to get some answers.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20240419000000 +0000" stop="20240419003500 +0000" channel="EN: MBC Masr">
+    <title lang="en">شكشك شو</title>
+    <desc lang="en">Ali Rabee.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://shahid.mbc.net/mediaObject/slider/Karim_Sliders/3am-Shakshak--Thmbnail2/original/3am-Shakshak--Thmbnail2.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20240419003500 +0000" stop="20240419051500 +0000" channel="EN: MBC Masr">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240419051500 +0000" stop="20240419065400 +0000" channel="EN: MBC Masr">
+    <title lang="en">Yahdoth Fi Masr</title>
+    <desc lang="en">Presented by Sherif Amer, Yahdoth Fi Masr covers the latest news and hot topics of the day.(n)</desc>
+    <date>2024</date>
+    <category lang="en">Talk Show</category>
+    <category lang="en">Political</category>
+    <icon src="https://shahid.mbc.net/mediaObject/New-Thumbs/karim-2022-jan/Yahdo-fe-masr-s2022-thumb-en/original/Yahdo-fe-masr-s2022-thumb-en.jpg" />
+    <episode-num system="onscreen">S2024 E29</episode-num>
+  </programme>
+  <programme start="20240419065400 +0000" stop="20240419071000 +0000" channel="EN: MBC Masr">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240419071000 +0000" stop="20240419084400 +0000" channel="EN: MBC Masr">
+    <title lang="en">El Laeeb</title>
+    <desc lang="en">Dive into the worlds of Egyptian football stars to take a closer look at their behind-the-scenes training, secrets, and personal lives.(n)</desc>
+    <date>2024</date>
+    <category lang="en">Football</category>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">E25</episode-num>
+  </programme>
+  <programme start="20240419084400 +0000" stop="20240419085000 +0000" channel="EN: MBC Masr">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240419085000 +0000" stop="20240419095200 +0000" channel="EN: MBC Masr">
+    <title lang="en">Kalam Al Nas</title>
+    <desc lang="en">A captivating show that brings you utmost entertainment and hosts your favourite guests.(n)</desc>
+    <date>2024</date>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2021/Bedour/bedour2/bedour/final/Dec/Kalam-ElNas-thumb_EN/original/Kalam-ElNas-thumb_EN.jpg" />
+    <episode-num system="onscreen">S2024 E1</episode-num>
+  </programme>
+  <programme start="20240419095200 +0000" stop="20240419102200 +0000" channel="EN: MBC Masr">
+    <title lang="en">Salat Al Jum'ah Men Masr</title>
+    <desc lang="en">Live broadcast of Friday prayers in Egypt.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Religious</category>
+    <episode-num system="onscreen">E45</episode-num>
+  </programme>
+  <programme start="20240419102200 +0000" stop="20240419112000 +0000" channel="EN: MBC Masr">
+    <title lang="en">شكشك شو</title>
+    <desc lang="en">Ali Rabee.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://shahid.mbc.net/mediaObject/slider/Karim_Sliders/3am-Shakshak--Thmbnail2/original/3am-Shakshak--Thmbnail2.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20240419112000 +0000" stop="20240419120900 +0000" channel="EN: MBC Masr">
+    <title lang="en">Al Arraf</title>
+    <desc lang="en">After cheating the owner of the car showroom, the crook heads off to Alexandria where he impersonates the ambassador of Japan. Later, he meets a Lebanese fashion designer.(n)</desc>
+    <date>2013</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Social</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20240419120900 +0000" stop="20240419121500 +0000" channel="EN: MBC Masr">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240419121500 +0000" stop="20240419125900 +0000" channel="EN: MBC Masr">
+    <title lang="en">Molouk Al Gad'ana</title>
+    <desc lang="en">Siriya and Safina arrive to a shocking surprise at Hakam’s store. Meanwhile, Antar conspires with Zahi against Safina and Siriya for a sum of money.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Action</category>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation-2021/No-Tags/MAY/Molok_al_gadana_Thumbnail_en_2021/original/Molok_al_gadana_Thumbnail_en_2021.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240419125900 +0000" stop="20240419130800 +0000" channel="EN: MBC Masr">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240419130800 +0000" stop="20240419134500 +0000" channel="EN: MBC Masr">
+    <title lang="en">Al Motawahesh</title>
+    <desc lang="en">Years after being kidnapped as a child from his wealthy family and making his way through life on the streets, Yaman must recreate himself when he finally returns home.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2024/Hero/FEB/Thump_almotawahesh_En-(1)/original/Thump_almotawahesh_En-(1).jpg" />
+    <episode-num system="onscreen">S1 E93</episode-num>
+  </programme>
+  <programme start="20240419134500 +0000" stop="20240419142100 +0000" channel="EN: MBC Masr">
+    <title lang="en">Al Motawahesh</title>
+    <desc lang="en">Years after being kidnapped as a child from his wealthy family and making his way through life on the streets, Yaman must recreate himself when he finally returns home.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2024/Hero/FEB/Thump_almotawahesh_En-(1)/original/Thump_almotawahesh_En-(1).jpg" />
+    <episode-num system="onscreen">S1 E94</episode-num>
+  </programme>
+  <programme start="20240419142100 +0000" stop="20240419145000 +0000" channel="EN: MBC Masr">
+    <title lang="en">Al Motawahesh</title>
+    <desc lang="en">Years after being kidnapped as a child from his wealthy family and making his way through life on the streets, Yaman must recreate himself when he finally returns home.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2024/Hero/FEB/Thump_almotawahesh_En-(1)/original/Thump_almotawahesh_En-(1).jpg" />
+    <episode-num system="onscreen">S1 E95</episode-num>
+  </programme>
+  <programme start="20240419145000 +0000" stop="20240419152500 +0000" channel="EN: MBC Masr">
+    <title lang="en">Al Motawahesh</title>
+    <desc lang="en">Years after being kidnapped as a child from his wealthy family and making his way through life on the streets, Yaman must recreate himself when he finally returns home.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2024/Hero/FEB/Thump_almotawahesh_En-(1)/original/Thump_almotawahesh_En-(1).jpg" />
+    <episode-num system="onscreen">S1 E96</episode-num>
+  </programme>
+  <programme start="20240419152500 +0000" stop="20240419160000 +0000" channel="EN: MBC Masr">
+    <title lang="en">Al Motawahesh</title>
+    <desc lang="en">Years after being kidnapped as a child from his wealthy family and making his way through life on the streets, Yaman must recreate himself when he finally returns home.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2024/Hero/FEB/Thump_almotawahesh_En-(1)/original/Thump_almotawahesh_En-(1).jpg" />
+    <episode-num system="onscreen">S1 E97</episode-num>
+  </programme>
+  <programme start="20240419160000 +0000" stop="20240419170500 +0000" channel="EN: MBC Masr">
+    <title lang="en">Kalam El Nas</title>
+    <desc lang="en">A captivating show that brings you utmost entertainment and hosts your favourite guests.(n)</desc>
+    <date>2024</date>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20240419170500 +0000" stop="20240419171500 +0000" channel="EN: MBC Masr">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240419171500 +0000" stop="20240419175000 +0000" channel="EN: MBC Masr">
+    <title lang="en">١٠٠ ريختر</title>
+    <desc lang="en">A hidden camera program tests the guts of stars when facing natural disasters in a talk show when an earthquake with a magnitude of 100 hits the set.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://shahid.mbc.net/mediaObject/thumbs/100-Rekhter/100_rekhter_thump/original/100_rekhter_thump.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240419175000 +0000" stop="20240419191000 +0000" channel="EN: MBC Masr">
+    <title lang="en">Masrah Masr</title>
+    <desc lang="en">حرب الصرصور.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Play</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Social</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2020/Amr/ART-2/masrah-masr_Thumbnail_clean_v3_EN/original/masrah-masr_Thumbnail_clean_v3_EN.jpg" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+  </programme>
+  <programme start="20240419191000 +0000" stop="20240419200000 +0000" channel="EN: MBC Masr">
+    <title lang="en">Kalam Al Nas</title>
+    <desc lang="en">A captivating show that brings you utmost entertainment and hosts your favourite guests.(n)</desc>
+    <date>2024</date>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2021/Bedour/bedour2/bedour/final/Dec/Kalam-ElNas-thumb_EN/original/Kalam-ElNas-thumb_EN.jpg" />
+    <episode-num system="onscreen">S2024 E1</episode-num>
+  </programme>
+  <programme start="20240419200000 +0000" stop="20240419220700 +0000" channel="EN: MBC Masr">
+    <title lang="en">El Hekaya Ma' Amr Adib</title>
+    <desc lang="en">Offering a fresh and fun take on the daily happenings around the world, Amr Adib tackles a variety of topics ranging from politics to entertainment.(n)</desc>
+    <date>2024</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">Political</category>
+    <category lang="en">Social</category>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">E38</episode-num>
+  </programme>
+  <programme start="20240419220700 +0000" stop="20240419235959 +0000" channel="EN: MBC Masr">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240420000000 +0000" stop="20240420000700 +0000" channel="EN: MBC Masr">
+    <title lang="en">El Laeeb</title>
+    <desc lang="en">Dive into the worlds of Egyptian football stars to take a closer look at their behind-the-scenes training, secrets, and personal lives.(n)</desc>
+    <date>2024</date>
+    <category lang="en">Football</category>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">E26</episode-num>
+  </programme>
+  <programme start="20240420000700 +0000" stop="20240420001500 +0000" channel="EN: MBC Masr">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240420001500 +0000" stop="20240420004400 +0000" channel="EN: MBC Masr">
+    <title lang="en">١٠٠ ريختر</title>
+    <desc lang="en">A hidden camera program tests the guts of stars when facing natural disasters in a talk show when an earthquake with a magnitude of 100 hits the set.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://shahid.mbc.net/mediaObject/thumbs/100-Rekhter/100_rekhter_thump/original/100_rekhter_thump.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240420004400 +0000" stop="20240420005000 +0000" channel="EN: MBC Masr">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240420005000 +0000" stop="20240420022000 +0000" channel="EN: MBC Masr">
+    <title lang="en">Masrah Masr</title>
+    <desc lang="en">حرب الصرصور.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Social</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Play</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2020/Amr/ART-2/masrah-masr_Thumbnail_clean_v3_EN/original/masrah-masr_Thumbnail_clean_v3_EN.jpg" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+  </programme>
+  <programme start="20240420022000 +0000" stop="20240420030600 +0000" channel="EN: MBC Masr">
+    <title lang="en">Al Arraf</title>
+    <desc lang="en">Zaki organizes an extravagant party to show off. Meanwhile, Muhsin’s dilapidated house crumbles and he tries to look for something edible to feed his kids.(n)</desc>
+    <date>2013</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Social</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20240420030600 +0000" stop="20240420035000 +0000" channel="EN: MBC Masr">
+    <title lang="en">Al Arraf</title>
+    <desc lang="en">After the party, the photographer sends the photos to the chief editor with a female journalist who wrote an article about the party's host. Meanwhile, one of the VIPs gets a call from the public funds department asking him to come immediately.(n)</desc>
+    <date>2013</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Social</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20240420035000 +0000" stop="20240420043400 +0000" channel="EN: MBC Masr">
+    <title lang="en">العراف</title>
+    <desc lang="en">Nobody really knows who's the fortune teller for the many personalities he took over 30 years, he stops cheating and starts looking for his children.(n)</desc>
+    <date>2013</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2021/MARCH/amjad/untitled/Thump_Al_Arraf_en/original/Thump_Al_Arraf_en.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20240420043400 +0000" stop="20240420052500 +0000" channel="EN: MBC Masr">
+    <title lang="en">Al Arraf</title>
+    <desc lang="en">After cheating the owner of the car showroom, the crook heads off to Alexandria where he impersonates the ambassador of Japan. Later, he meets a Lebanese fashion designer.(n)</desc>
+    <date>2013</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Social</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20240419000000 +0000" stop="20240419000400 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Habibati.. Man Takoun?</title>
+    <desc lang="en">The life of a young lady who aspires to be a doctor changes when her father marries her off to a police officer from a wealthy family.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E176</episode-num>
+  </programme>
+  <programme start="20240419000400 +0000" stop="20240419004700 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Omniya Wa In Tahaqqaqat</title>
+    <desc lang="en">Abhimanyu surprises everyone with a decision on his son Abhir. Preparations for Abhinav's birthday party begin.(n)</desc>
+    <date>2009</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E303</episode-num>
+  </programme>
+  <programme start="20240419004700 +0000" stop="20240419051400 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240419051400 +0000" stop="20240419060200 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Habibati.. Man Takoun?</title>
+    <desc lang="en">The life of a young lady who aspires to be a doctor changes when her father marries her off to a police officer from a wealthy family.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Romantic</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/Amjad/Jul/Thump_Habibati_Man_Takoun_2_en0/original/Thump_Habibati_Man_Takoun_2_en0.jpg" />
+    <episode-num system="onscreen">S2 E172</episode-num>
+  </programme>
+  <programme start="20240419060200 +0000" stop="20240419064500 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Habibati.. Man Takoun?</title>
+    <desc lang="en">The life of a young lady who aspires to be a doctor changes when her father marries her off to a police officer from a wealthy family.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Romantic</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/Amjad/Jul/Thump_Habibati_Man_Takoun_2_en0/original/Thump_Habibati_Man_Takoun_2_en0.jpg" />
+    <episode-num system="onscreen">S2 E173</episode-num>
+  </programme>
+  <programme start="20240419064500 +0000" stop="20240419072700 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Habibati.. Man Takoun?</title>
+    <desc lang="en">The life of a young lady who aspires to be a doctor changes when her father marries her off to a police officer from a wealthy family.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Romantic</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/Amjad/Jul/Thump_Habibati_Man_Takoun_2_en0/original/Thump_Habibati_Man_Takoun_2_en0.jpg" />
+    <episode-num system="onscreen">S2 E174</episode-num>
+  </programme>
+  <programme start="20240419072700 +0000" stop="20240419081000 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Habibati.. Man Takoun?</title>
+    <desc lang="en">Ishan confronts Rifa about their relationship, as his frequent help to Savi arouses Bhavani's suspicion. Meanwhile, Ninad's health starts to improve.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Romantic</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/Amjad/Jul/Thump_Habibati_Man_Takoun_2_en0/original/Thump_Habibati_Man_Takoun_2_en0.jpg" />
+    <episode-num system="onscreen">S2 E175</episode-num>
+  </programme>
+  <programme start="20240419081000 +0000" stop="20240419090000 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Habibati.. Man Takoun?</title>
+    <desc lang="en">Isha gets the birthday blues. Savi comes up with an idea to help treat Ishan's mental condition and decides to implement it.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Romantic</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/Amjad/Jul/Thump_Habibati_Man_Takoun_2_en0/original/Thump_Habibati_Man_Takoun_2_en0.jpg" />
+    <episode-num system="onscreen">S2 E176</episode-num>
+  </programme>
+  <programme start="20240419090000 +0000" stop="20240419092000 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">A fabulous shopping channel that brings quality products from around the world directly to your doorstep!(n)</desc>
+    <date>2022</date>
+    <category lang="en">Home Shopping</category>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="onscreen">E1147</episode-num>
+  </programme>
+  <programme start="20240419092000 +0000" stop="20240419092900 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">A fabulous shopping channel that brings quality products from around the world directly to your doorstep!(n)</desc>
+    <date>2022</date>
+    <category lang="en">Home Shopping</category>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="onscreen">E1153</episode-num>
+  </programme>
+  <programme start="20240419092900 +0000" stop="20240419094900 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">A fabulous shopping channel that brings quality products from around the world directly to your doorstep!(n)</desc>
+    <date>2022</date>
+    <category lang="en">Home Shopping</category>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="onscreen">E1146</episode-num>
+  </programme>
+  <programme start="20240419094900 +0000" stop="20240419095900 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">A fabulous shopping channel that brings quality products from around the world directly to your doorstep!(n)</desc>
+    <date>2022</date>
+    <category lang="en">Home Shopping</category>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="onscreen">E1150</episode-num>
+  </programme>
+  <programme start="20240419095900 +0000" stop="20240419125400 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Sarfarosh</title>
+    <desc lang="en">After an act of terror claims his brother’s life and leaves his father severely injured, a young man decides to join the police force to exact revenge on the terrorists.(n)</desc>
+    <date>1999</date>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20240419125400 +0000" stop="20240419144500 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Table No. 21</title>
+    <desc lang="en">A couple is thrilled to participate in a game show with a huge cash prize, until they find out that the questions ironically tie back to an important chapter of their lives and that the only way to survive is to complete the game.(n)</desc>
+    <date>2013</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+  </programme>
+  <programme start="20240419144500 +0000" stop="20240419170000 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Stree</title>
+    <desc lang="en">In a town called Chanderi, men have started disappearing mysteriously. Is Stree taking them away? Who is she and what does she want?(n)</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20240419170000 +0000" stop="20240419190500 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Radhe: Your Most Wanted Bhai</title>
+    <desc lang="en">An invincible cop is enlisted by the Mumbai police to take down a kingpin and bring peace to the drug-ravaged city.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20240419190500 +0000" stop="20240419213000 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Kai Po Che!</title>
+    <desc lang="en">Three best friends trying to make a mark in the early 2000s in India start a business that could be their ticket to fame and riches.(n)</desc>
+    <date>2013</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20240419213000 +0000" stop="20240419214900 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">A fabulous shopping channel that brings quality products from around the world directly to your doorstep!(n)</desc>
+    <date>2022</date>
+    <category lang="en">Home Shopping</category>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="onscreen">E1146</episode-num>
+  </programme>
+  <programme start="20240419214900 +0000" stop="20240419215900 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">A fabulous shopping channel that brings quality products from around the world directly to your doorstep!(n)</desc>
+    <date>2022</date>
+    <category lang="en">Home Shopping</category>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="onscreen">E1149</episode-num>
+  </programme>
+  <programme start="20240419215900 +0000" stop="20240419220800 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">A fabulous shopping channel that brings quality products from around the world directly to your doorstep!(n)</desc>
+    <date>2022</date>
+    <category lang="en">Home Shopping</category>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="onscreen">E1152</episode-num>
+  </programme>
+  <programme start="20240419220800 +0000" stop="20240419221800 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">A fabulous shopping channel that brings quality products from around the world directly to your doorstep!(n)</desc>
+    <date>2022</date>
+    <category lang="en">Home Shopping</category>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="onscreen">E1148</episode-num>
+  </programme>
+  <programme start="20240419221800 +0000" stop="20240419222900 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">A fabulous shopping channel that brings quality products from around the world directly to your doorstep!(n)</desc>
+    <date>2022</date>
+    <category lang="en">Home Shopping</category>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="onscreen">E1145</episode-num>
+  </programme>
+  <programme start="20240419222900 +0000" stop="20240419235959 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240420000000 +0000" stop="20240420004200 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Time To Dance</title>
+    <desc lang="en">When a ballroom dancer's chance to compete at a tournament is threatened following an injury, a street dancer must confront his own troubled past to become her new partner.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Musical</category>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20240420004200 +0000" stop="20240420024400 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Table No. 21</title>
+    <desc lang="en">A couple is thrilled to participate in a game show with a huge cash prize, until they find out that the questions ironically tie back to an important chapter of their lives and that the only way to survive is to complete the game.(n)</desc>
+    <date>2013</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+  </programme>
+  <programme start="20240420024400 +0000" stop="20240420045500 +0000" channel="EN: MBC Bollywood">
+    <title lang="en">Kai Po Che!</title>
+    <desc lang="en">Three best friends trying to make a mark in the early 2000s in India start a business that could be their ticket to fame and riches.(n)</desc>
+    <date>2013</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20240419000000 +0000" stop="20240419005100 +0000" channel="EN: MBC Iraq">
+    <title lang="en">Khareef Omar</title>
+    <desc lang="en">With Tara’s help, Mughith attempts to secure evidence implicating Um Atef in human trafficking. Omar receives an unexpected medical diagnosis.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Excitement</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/Amjad/jun/Thump_Khareef_Omar_en/original/Thump_Khareef_Omar_en.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240419005100 +0000" stop="20240419060000 +0000" channel="EN: MBC Iraq">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240419060000 +0000" stop="20240419062600 +0000" channel="EN: MBC Iraq">
+    <title lang="en">Asrar Al Boyout</title>
+    <desc lang="en">Ilkgul delivers heartbreaking news during Songul, Khairiya, and Medina’s TV interview. Meanwhile, Medina finds out that Aylin is cheating on her husband.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Sep/Thump_Asrar_Al_Boyout/original/Thump_Asrar_Al_Boyout.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20240419062600 +0000" stop="20240419065000 +0000" channel="EN: MBC Iraq">
+    <title lang="en">Asrar Al Boyout</title>
+    <desc lang="en">While walking around the neighbourhood handing out sweets in memory of Mariam, the maids receive a surprising reaction from their late friend's former boss.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Sep/Thump_Asrar_Al_Boyout/original/Thump_Asrar_Al_Boyout.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20240419065000 +0000" stop="20240419071400 +0000" channel="EN: MBC Iraq">
+    <title lang="en">Asrar Al Boyout</title>
+    <desc lang="en">Upon returning home, Ahmed meets Ilkgul, while Medina decides to tell her friends about Aylin’s infidelity. Kahraman tries to convey vital information about Mariam to Ilkgul.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Sep/Thump_Asrar_Al_Boyout/original/Thump_Asrar_Al_Boyout.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20240419071400 +0000" stop="20240419074100 +0000" channel="EN: MBC Iraq">
+    <title lang="en">Asrar Al Boyout</title>
+    <desc lang="en">The maids decide to help Khairiya prepare for a special occasion. Medina tries to borrow some money from Aylin.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Sep/Thump_Asrar_Al_Boyout/original/Thump_Asrar_Al_Boyout.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20240419074100 +0000" stop="20240419080500 +0000" channel="EN: MBC Iraq">
+    <title lang="en">Asrar Al Boyout</title>
+    <desc lang="en">Murad loses his mind upon learning an upsetting truth. Ilkgul finds a letter written by Mariam, as Nergis surprises Fayyaz and everyone at the party.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Sep/Thump_Asrar_Al_Boyout/original/Thump_Asrar_Al_Boyout.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240419080500 +0000" stop="20240419085200 +0000" channel="EN: MBC Iraq">
+    <title lang="en">El Maddah: Ostouret El Awda</title>
+    <desc lang="en">Saber heads to Aswan after a family asks for his help, but the trip doesn't go as planned…\r\n\r\n.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/RAMADAN_OFFICIAL/Thump_almadah_en/original/Thump_almadah_en.jpg" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+  </programme>
+  <programme start="20240419085200 +0000" stop="20240419093800 +0000" channel="EN: MBC Iraq">
+    <title lang="en">El Maddah: Ostouret El Awda</title>
+    <desc lang="en">While Saber's story goes viral on social media, Hassan refuses to comply with his orders. Upon visiting her father’s grave, Rehab’s suspicion about Saber grows.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/RAMADAN_OFFICIAL/Thump_almadah_en/original/Thump_almadah_en.jpg" />
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  <programme start="20240419093800 +0000" stop="20240419102100 +0000" channel="EN: MBC Iraq">
+    <title lang="en">El Maddah: Ostouret El Awda</title>
+    <desc lang="en">Saber visits The Catacomb in search of answers. Aisha's night ends with tragedy when a sinister guest knocks on her door.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/RAMADAN_OFFICIAL/Thump_almadah_en/original/Thump_almadah_en.jpg" />
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  <programme start="20240419102100 +0000" stop="20240419110500 +0000" channel="EN: MBC Iraq">
+    <title lang="en">El Maddah: Ostouret El Awda</title>
+    <desc lang="en">Manal and Kassia meet while attending a religious lecture taught by Sameeh. Saber saves Daood. Sameeh brings Gameel and Omayma to his side.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/RAMADAN_OFFICIAL/Thump_almadah_en/original/Thump_almadah_en.jpg" />
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20240419110500 +0000" stop="20240419120000 +0000" channel="EN: MBC Iraq">
+    <title lang="en">El Maddah: Ostouret El Awda</title>
+    <desc lang="en">While Rehab consults Sameeh about her relationship with Saber, Manal suggests she return to her father's. Saber discovers something heartbreaking upon visiting Aisha.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/RAMADAN_OFFICIAL/Thump_almadah_en/original/Thump_almadah_en.jpg" />
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20240419120000 +0000" stop="20240419140000 +0000" channel="EN: MBC Iraq">
+    <title lang="en">Al Ba'd La Yazhab Lil Ma’zoun Marritayn</title>
+    <desc lang="en">When a journalist's marriage to a relationship expert goes south, he begins a series of incognito investigations about the divorce issues in Egypt.\r\n.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2021/AMREID/aa/untitled0/Thump_ALBa3ad_La_yathahab_Lel_Mazoun_Maratayen_EN/original/Thump_ALBa3ad_La_yathahab_Lel_Mazoun_Maratayen_EN.jpg" />
+  </programme>
+  <programme start="20240419140000 +0000" stop="20240419153000 +0000" channel="EN: MBC Iraq">
+    <title lang="en">Kalam Nawa'em</title>
+    <desc lang="en">The ladies talk to actor Ahmed Zaher about his success in Ne'ma El Avoccato, later delving into social media fame and how money can make or break a marriage.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Talk Show</category>
+    <category lang="en">Social</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/ThumpEN_Kalam_Nawa-em/original/ThumpEN_Kalam_Nawa-em.jpg" />
+    <episode-num system="onscreen">S21 E18</episode-num>
+  </programme>
+  <programme start="20240419153000 +0000" stop="20240419163000 +0000" channel="EN: MBC Iraq">
+    <title lang="en">Ghannili Bil Jaw</title>
+    <desc lang="en">Mohammed Assaf.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Entertainment</category>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2022/Hero/SEP/Thump_Ghannili_Bil_Jaw-2/original/Thump_Ghannili_Bil_Jaw-2.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20240419163000 +0000" stop="20240419173000 +0000" channel="EN: MBC Iraq">
+    <title lang="en">Takeshi's Castle</title>
+    <desc lang="en">Iconic Japanese game show Takeshi’s Castle comes to Saudi shores as Al Hisn, with its own spin on ‎the hilarious show..(n)</desc>
+    <date>2023</date>
+    <category lang="en">Game Show</category>
+    <category lang="en">Entertainment</category>
+    <icon src="https://shahid.mbc.net/mediaObject/New-Thumbs/Karim2020-33/elhisn/original/elhisn.jpg" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20240419173000 +0000" stop="20240419183000 +0000" channel="EN: MBC Iraq">
+    <title lang="en">Bait Beauty</title>
+    <desc lang="en">The episode discusses self-confidence, the latest fashion trends, electrical wires decoration and skin problems.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Health</category>
+    <category lang="en">Cooking</category>
+    <category lang="en">Social</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://shahid.mbc.net/mediaObject/april/semary/EN/EN1/Bait_Beauty_Season_2_Thumb_Eng/original/Bait_Beauty_Season_2_Thumb_Eng.jpg" />
+    <episode-num system="onscreen">S2 E18</episode-num>
+  </programme>
+  <programme start="20240419183000 +0000" stop="20240419200000 +0000" channel="EN: MBC Iraq">
+    <title lang="en">Big Time Podcast</title>
+    <desc lang="en">Abas Al Nouri.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Talk Show</category>
+    <category lang="en">Podcast</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/RAMADAN_OFFICIAL/Thump_BigTime_Podcast0/original/Thump_BigTime_Podcast0.jpg" />
+    <episode-num system="onscreen">S1 E35</episode-num>
+  </programme>
+  <programme start="20240419200000 +0000" stop="20240419205000 +0000" channel="EN: MBC Iraq">
+    <title lang="en">Hafl Majid Al Mohandis Shahd Al Horouf</title>
+    <desc lang="en">Majid Almohandis takes the stage to perform songs from his latest album, Shahd Al Horouf.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20240419205000 +0000" stop="20240419213500 +0000" channel="EN: MBC Iraq">
+    <desc lang="en">The diaries of  Siraj Al-ardahalgy who writes petitions and people's complaints before submitting them to court, and the funny situations he faces.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Social</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/april/semary/EN/aLaLRDHALGY_thumb_Eng/original/aLaLRDHALGY_thumb_Eng.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20240419213500 +0000" stop="20240419221700 +0000" channel="EN: MBC Iraq">
+    <title lang="en">العرضحالجي</title>
+    <desc lang="en">The diaries of  Siraj Al-ardahalgy who writes petitions and people's complaints before submitting them to court, and the funny situations he faces.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Social</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/april/semary/EN/aLaLRDHALGY_thumb_Eng/original/aLaLRDHALGY_thumb_Eng.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20240419221700 +0000" stop="20240419225900 +0000" channel="EN: MBC Iraq">
+    <desc lang="en">The diaries of  Siraj Al-ardahalgy who writes petitions and people's complaints before submitting them to court, and the funny situations he faces.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Social</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/april/semary/EN/aLaLRDHALGY_thumb_Eng/original/aLaLRDHALGY_thumb_Eng.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20240419225900 +0000" stop="20240419234300 +0000" channel="EN: MBC Iraq">
+    <desc lang="en">The diaries of  Siraj Al-ardahalgy who writes petitions and people's complaints before submitting them to court, and the funny situations he faces.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Social</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/april/semary/EN/aLaLRDHALGY_thumb_Eng/original/aLaLRDHALGY_thumb_Eng.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20240419234300 +0000" stop="20240419235959 +0000" channel="EN: MBC Iraq">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240420000000 +0000" stop="20240420004000 +0000" channel="EN: MBC Iraq">
+    <desc lang="en">The diaries of  Siraj Al-ardahalgy who writes petitions and people's complaints before submitting them to court, and the funny situations he faces.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Social</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/april/semary/EN/aLaLRDHALGY_thumb_Eng/original/aLaLRDHALGY_thumb_Eng.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20240420004000 +0000" stop="20240420010900 +0000" channel="EN: MBC Iraq">
+    <title lang="en">Asrar Al Boyout</title>
+    <desc lang="en">Ilkgul delivers heartbreaking news during Songul, Khairiya, and Medina’s TV interview. Meanwhile, Medina finds out that Aylin is cheating on her husband.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Sep/Thump_Asrar_Al_Boyout/original/Thump_Asrar_Al_Boyout.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20240420010900 +0000" stop="20240420013700 +0000" channel="EN: MBC Iraq">
+    <title lang="en">Asrar Al Boyout</title>
+    <desc lang="en">While walking around the neighbourhood handing out sweets in memory of Mariam, the maids receive a surprising reaction from their late friend's former boss.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Sep/Thump_Asrar_Al_Boyout/original/Thump_Asrar_Al_Boyout.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20240420013700 +0000" stop="20240420020600 +0000" channel="EN: MBC Iraq">
+    <title lang="en">Asrar Al Boyout</title>
+    <desc lang="en">Upon returning home, Ahmed meets Ilkgul, while Medina decides to tell her friends about Aylin’s infidelity. Kahraman tries to convey vital information about Mariam to Ilkgul.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Sep/Thump_Asrar_Al_Boyout/original/Thump_Asrar_Al_Boyout.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20240420020600 +0000" stop="20240420023300 +0000" channel="EN: MBC Iraq">
+    <title lang="en">Asrar Al Boyout</title>
+    <desc lang="en">The maids decide to help Khairiya prepare for a special occasion. Medina tries to borrow some money from Aylin.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Sep/Thump_Asrar_Al_Boyout/original/Thump_Asrar_Al_Boyout.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20240420023300 +0000" stop="20240420030100 +0000" channel="EN: MBC Iraq">
+    <title lang="en">Asrar Al Boyout</title>
+    <desc lang="en">Murad loses his mind upon learning an upsetting truth. Ilkgul finds a letter written by Mariam, as Nergis surprises Fayyaz and everyone at the party.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Sep/Thump_Asrar_Al_Boyout/original/Thump_Asrar_Al_Boyout.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240420030100 +0000" stop="20240420035400 +0000" channel="EN: MBC Iraq">
+    <title lang="en">El Maddah: Ostouret El Awda</title>
+    <desc lang="en">Saber heads to Aswan after a family asks for his help, but the trip doesn't go as planned…\r\n\r\n.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/RAMADAN_OFFICIAL/Thump_almadah_en/original/Thump_almadah_en.jpg" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+  </programme>
+  <programme start="20240420035400 +0000" stop="20240420045300 +0000" channel="EN: MBC Iraq">
+    <title lang="en">El Maddah: Ostouret El Awda</title>
+    <desc lang="en">While Saber's story goes viral on social media, Hassan refuses to comply with his orders. Upon visiting her father’s grave, Rehab’s suspicion about Saber grows.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/RAMADAN_OFFICIAL/Thump_almadah_en/original/Thump_almadah_en.jpg" />
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  <programme start="20240420045300 +0000" stop="20240420053800 +0000" channel="EN: MBC Iraq">
+    <title lang="en">El Maddah: Ostouret El Awda</title>
+    <desc lang="en">Saber visits The Catacomb in search of answers. Aisha's night ends with tragedy when a sinister guest knocks on her door.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/RAMADAN_OFFICIAL/Thump_almadah_en/original/Thump_almadah_en.jpg" />
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  <programme start="20240420053800 +0000" stop="20240420061900 +0000" channel="EN: MBC Iraq">
+    <title lang="en">El Maddah: Ostouret El Awda</title>
+    <desc lang="en">Manal and Kassia meet while attending a religious lecture taught by Sameeh. Saber saves Daood. Sameeh brings Gameel and Omayma to his side.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/RAMADAN_OFFICIAL/Thump_almadah_en/original/Thump_almadah_en.jpg" />
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20240420061900 +0000" stop="20240420070000 +0000" channel="EN: MBC Iraq">
+    <title lang="en">El Maddah: Ostouret El Awda</title>
+    <desc lang="en">While Rehab consults Sameeh about her relationship with Saber, Manal suggests she return to her father's. Saber discovers something heartbreaking upon visiting Aisha.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/RAMADAN_OFFICIAL/Thump_almadah_en/original/Thump_almadah_en.jpg" />
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20240419000000 +0000" stop="20240419001500 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Ded Maghoul</title>
+    <desc lang="en">After being divorced for years, Nada remarries again and gives birth to Rana her hope in life, but a shocking accident turns Nada's life upside down.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Mystery</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2021/MARCH/amr/ded_maghol_thump_en/original/ded_maghol_thump_en.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240419001500 +0000" stop="20240419063500 +0000" channel="EN: MBC Masr2">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240419063500 +0000" stop="20240419073500 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Lo'bat Hob</title>
+    <desc lang="en">After Sama fails to do her tasks, Farida asks Ramy to help her. Malek puts more pressure on Sama.\r\n\r\n.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Romantic</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/Bedour/Thump_Loabet_Hob_EN/original/Thump_Loabet_Hob_EN.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240419073500 +0000" stop="20240419082500 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Hatha Al Masaa</title>
+    <desc lang="en">Bringing to light the complexity of relationships, this series tells the intertwining stories of CEO Akram, his wife and their driver.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Social</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2020/Mokharabsheh/December/MBC4/Thumben/original/Thumben.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240419082500 +0000" stop="20240419091500 +0000" channel="EN: MBC Masr2">
+    <title lang="en">أيوب</title>
+    <desc lang="en">Ayoub the simple employee goes to jail because he couldn't pay his debt, his mother dies, in prison he meets Murad and they decide to get revenge.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Social</category>
+    <icon src="https://shahid.mbc.net/mediaObject/slider/amro-slider/Ramadan2018/ayoob-thumbnail-new/original/ayoob-thumbnail-new.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240419091500 +0000" stop="20240419094900 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Ragel We Set Settat: Awdet Ramzi</title>
+    <desc lang="en">Between his wife, mother, mother-in-law, daughter, sister and his wife's sister, Adel continues his comedic situations specially after Ramsy's return.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Social</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/bedour2/Thump_Ragel_We_Set_SettatEN/original/Thump_Ragel_We_Set_SettatEN.jpg" />
+    <episode-num system="onscreen">S9 E1</episode-num>
+  </programme>
+  <programme start="20240419094900 +0000" stop="20240419102100 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Ragel We Set Settat: Awdet Ramzi</title>
+    <desc lang="en">Between his wife, mother, mother-in-law, daughter, sister and his wife's sister, Adel continues his comedic situations specially after Ramsy's return.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Social</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/bedour2/Thump_Ragel_We_Set_SettatEN/original/Thump_Ragel_We_Set_SettatEN.jpg" />
+    <episode-num system="onscreen">S9 E2</episode-num>
+  </programme>
+  <programme start="20240419102100 +0000" stop="20240419105200 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Ragel We Set Settat: Awdet Ramzi</title>
+    <desc lang="en">Between his wife, mother, mother-in-law, daughter, sister and his wife's sister, Adel continues his comedic situations specially after Ramsy's return.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Social</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/bedour2/Thump_Ragel_We_Set_SettatEN/original/Thump_Ragel_We_Set_SettatEN.jpg" />
+    <episode-num system="onscreen">S9 E3</episode-num>
+  </programme>
+  <programme start="20240419105200 +0000" stop="20240419112600 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Ragel We Set Settat: Awdet Ramzi</title>
+    <desc lang="en">Between his wife, mother, mother-in-law, daughter, sister and his wife's sister, Adel continues his comedic situations specially after Ramsy's return.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Social</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/bedour2/Thump_Ragel_We_Set_SettatEN/original/Thump_Ragel_We_Set_SettatEN.jpg" />
+    <episode-num system="onscreen">S9 E4</episode-num>
+  </programme>
+  <programme start="20240419112600 +0000" stop="20240419120000 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Ragel We Set Settat: Awdet Ramzi</title>
+    <desc lang="en">Between his wife, mother, mother-in-law, daughter, sister and his wife's sister, Adel continues his comedic situations specially after Ramsy's return.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Social</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/bedour2/Thump_Ragel_We_Set_SettatEN/original/Thump_Ragel_We_Set_SettatEN.jpg" />
+    <episode-num system="onscreen">S9 E5</episode-num>
+  </programme>
+  <programme start="20240419120000 +0000" stop="20240419125000 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Ded Maghoul</title>
+    <desc lang="en">After being divorced for years, Nada remarries again and gives birth to Rana her hope in life, but a shocking accident turns Nada's life upside down.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Mystery</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2021/MARCH/amr/ded_maghol_thump_en/original/ded_maghol_thump_en.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240419125000 +0000" stop="20240419135500 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Lo'bat Hob</title>
+    <desc lang="en">After Sama fails to do her tasks, Farida asks Ramy to help her. Malek puts more pressure on Sama.\r\n\r\n.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Romantic</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/Bedour/Thump_Loabet_Hob_EN/original/Thump_Loabet_Hob_EN.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240419135500 +0000" stop="20240419143900 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Hatha Al Masaa</title>
+    <desc lang="en">Bringing to light the complexity of relationships, this series tells the intertwining stories of CEO Akram, his wife and their driver.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Social</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2020/Mokharabsheh/December/MBC4/Thumben/original/Thumben.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20240419143900 +0000" stop="20240419152600 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Hatha Al Masaa</title>
+    <desc lang="en">Bringing to light the complexity of relationships, this series tells the intertwining stories of CEO Akram, his wife and their driver.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Social</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2020/Mokharabsheh/December/MBC4/Thumben/original/Thumben.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20240419152600 +0000" stop="20240419160200 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Hatha Al Masaa</title>
+    <desc lang="en">Bringing to light the complexity of relationships, this series tells the intertwining stories of CEO Akram, his wife and their driver.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Social</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2020/Mokharabsheh/December/MBC4/Thumben/original/Thumben.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240419160200 +0000" stop="20240419170200 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Wild Land</title>
+    <desc lang="en">Jorge blackmails Eduarda to get him out of jail and compensate him. Beatriz draws back from seeking divorce.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2021/MARCH/amjad/untitled/untitled1/Thump_tera_brava/original/Thump_tera_brava.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20240419170200 +0000" stop="20240419182500 +0000" channel="EN: MBC Masr2">
+    <title lang="en">وش السعد Season 1 Clip 1</title>
+    <desc lang="en">برومو.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Social</category>
+    <icon src="https://shahid.mbc.net/mediaObject/thumbs/WWE-Raw/WESHALSAAD_THUMB/original/WESHALSAAD_THUMB.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20240419182500 +0000" stop="20240419190500 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Al Rouh Al Ashiqa</title>
+    <desc lang="en">Shiv tries to put an end to his agony and asks for Sharanya’s help. Vyom asks Freddy to commit a heinous act on his behalf.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Romantic</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2023/Redesign/FEB/ENG_Al_roh_asheqa_thup_with_logo/original/ENG_Al_roh_asheqa_thup_with_logo.jpg" />
+    <episode-num system="onscreen">S1 E58</episode-num>
+  </programme>
+  <programme start="20240419190500 +0000" stop="20240419194600 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Al Rouh Al Ashiqa</title>
+    <desc lang="en">Sharanya finds herself at the mercy of Vyom’s family. Odhni learns something and confronts Freddy about it.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Romantic</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2023/Redesign/FEB/ENG_Al_roh_asheqa_thup_with_logo/original/ENG_Al_roh_asheqa_thup_with_logo.jpg" />
+    <episode-num system="onscreen">S1 E59</episode-num>
+  </programme>
+  <programme start="20240419194600 +0000" stop="20240419202700 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Al Rouh Al Ashiqa</title>
+    <desc lang="en">Rajan threatens to kill Suvarna if Shiv refuses to let Vyom be. Later, Vyom demands that Sharanya hand over the ring that connects her to Shiv.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Romantic</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2023/Redesign/FEB/ENG_Al_roh_asheqa_thup_with_logo/original/ENG_Al_roh_asheqa_thup_with_logo.jpg" />
+    <episode-num system="onscreen">S1 E60</episode-num>
+  </programme>
+  <programme start="20240419202700 +0000" stop="20240419210800 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Al Rouh Al Ashiqa</title>
+    <desc lang="en">Shivani surprises her parents when she decides to stay in her old house, as Akash shares his desire to hold his engagement party there.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Romantic</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2023/Redesign/FEB/ENG_Al_roh_asheqa_thup_with_logo/original/ENG_Al_roh_asheqa_thup_with_logo.jpg" />
+    <episode-num system="onscreen">S1 E61</episode-num>
+  </programme>
+  <programme start="20240419210800 +0000" stop="20240419215200 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Al Rouh Al Ashiqa</title>
+    <desc lang="en">Akash grows anxious as he experiences flashbacks from a previous life. Shivani is over the moon when Keke comes over.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Romantic</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2023/Redesign/FEB/ENG_Al_roh_asheqa_thup_with_logo/original/ENG_Al_roh_asheqa_thup_with_logo.jpg" />
+    <episode-num system="onscreen">S1 E62</episode-num>
+  </programme>
+  <programme start="20240419215200 +0000" stop="20240419223000 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Al Rouh Al Ashiqa</title>
+    <desc lang="en">Rajan is concerned about a decision Madhavi makes. Akash, Shivani and Keke start shooting their first film.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Romantic</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/Curation_2023/Redesign/FEB/ENG_Al_roh_asheqa_thup_with_logo/original/ENG_Al_roh_asheqa_thup_with_logo.jpg" />
+    <episode-num system="onscreen">S1 E63</episode-num>
+  </programme>
+  <programme start="20240419223000 +0000" stop="20240419232500 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Wild Land</title>
+    <desc lang="en">Jorge blackmails Eduarda to get him out of jail and compensate him. Beatriz draws back from seeking divorce.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2021/MARCH/amjad/untitled/untitled1/Thump_tera_brava/original/Thump_tera_brava.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20240419232500 +0000" stop="20240419235959 +0000" channel="EN: MBC Masr2">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240420000000 +0000" stop="20240420004000 +0000" channel="EN: MBC Masr2">
+    <title lang="en">وش السعد Season 1 Clip 1</title>
+    <desc lang="en">برومو.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Social</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://shahid.mbc.net/mediaObject/thumbs/WWE-Raw/WESHALSAAD_THUMB/original/WESHALSAAD_THUMB.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20240420004000 +0000" stop="20240420012500 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Lo'bat Hob</title>
+    <desc lang="en">An ordinary day for Sama, a middle-class waitress in an upscale restaurant, takes an unexpected turn due to an unlikely encounter with wealthy shoe designer Malek Al Assaad.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/Bedour/Thump_Loabet_Hob_EN/original/Thump_Loabet_Hob_EN.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20240420012500 +0000" stop="20240420021800 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Lo'bat Hob</title>
+    <desc lang="en">After she's forced to pay her brother’s ransom, Sama accepts a job offer that requires her to make her boss fall in love with her.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/Bedour/Thump_Loabet_Hob_EN/original/Thump_Loabet_Hob_EN.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20240420021800 +0000" stop="20240420030100 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Lo'bat Hob</title>
+    <desc lang="en">Sama tries hard not to mess up her tasks. Meanwhile, Farida plants spies in the company and Ramy ensures her plan goes smoothly.\r\n\r\n.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/Bedour/Thump_Loabet_Hob_EN/original/Thump_Loabet_Hob_EN.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20240420030100 +0000" stop="20240420034300 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Lo'bat Hob</title>
+    <desc lang="en">During Eleva’s summer collection shoot, Sama gets injured and Malek rushes to help her. Cyrine sees Sama as her competition. Farida makes sure her plan is working.\r\n\r\n.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/Bedour/Thump_Loabet_Hob_EN/original/Thump_Loabet_Hob_EN.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20240420034300 +0000" stop="20240420043900 +0000" channel="EN: MBC Masr2">
+    <title lang="en">Lo'bat Hob</title>
+    <desc lang="en">After Sama fails to do her tasks, Farida asks Ramy to help her. Malek puts more pressure on Sama.\r\n\r\n.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic</category>
+    <category lang="en">Drama</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/Bedour/Thump_Loabet_Hob_EN/original/Thump_Loabet_Hob_EN.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240420043900 +0000" stop="20240420055400 +0000" channel="EN: MBC Masr2">
+    <title lang="en">وش السعد Season 1 Clip 1</title>
+    <desc lang="en">برومو.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Social</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://shahid.mbc.net/mediaObject/thumbs/WWE-Raw/WESHALSAAD_THUMB/original/WESHALSAAD_THUMB.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20240419000000 +0000" stop="20240419014000 +0000" channel="EN: MBC Persia">
+    <title lang="en">Ray</title>
+    <desc lang="en">The triumphant and remarkable story of one of America's true musical geniuses, Ray Charles, who rose from humble beginnings in the South to the top of the music charts.(n)</desc>
+    <date>2004</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20240419014000 +0000" stop="20240419054100 +0000" channel="EN: MBC Persia">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240419054100 +0000" stop="20240419062500 +0000" channel="EN: MBC Persia">
+    <title lang="en">Mostajere Nemoone</title>
+    <desc lang="en">After getting forced out of her apartment, a young woman moves in with her colleague in a building where all the residents seem to be hiding a dark secret.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20240419062500 +0000" stop="20240419080400 +0000" channel="EN: MBC Persia">
+    <title lang="en">False Note</title>
+    <desc lang="en">A family gathering to celebrate their grandmother's birthday is ruined by the unexpected arrival of a son-in-law whose gold bullion has gone missing.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Mystery</category>
+  </programme>
+  <programme start="20240419080400 +0000" stop="20240419083700 +0000" channel="EN: MBC Persia">
+    <title lang="en">Fareed</title>
+    <desc lang="en">Seeking to give his reckless grandson a lesson, rich patriarch Halis Aga decides to marry him to a girl from his hometown.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E62</episode-num>
+  </programme>
+  <programme start="20240419083700 +0000" stop="20240419091000 +0000" channel="EN: MBC Persia">
+    <title lang="en">Fareed</title>
+    <desc lang="en">Seeking to give his reckless grandson a lesson, rich patriarch Halis Aga decides to marry him to a girl from his hometown.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E63</episode-num>
+  </programme>
+  <programme start="20240419091000 +0000" stop="20240419094000 +0000" channel="EN: MBC Persia">
+    <title lang="en">Fareed</title>
+    <desc lang="en">Seeking to give his reckless grandson a lesson, rich patriarch Halis Aga decides to marry him to a girl from his hometown.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E64</episode-num>
+  </programme>
+  <programme start="20240419094000 +0000" stop="20240419102800 +0000" channel="EN: MBC Persia">
+    <title lang="en">Raz</title>
+    <desc lang="en">Aiming to regain his life after captivity, Amer Badran discovers that seeking revenge on his enemies forces him to go out of his way and forge new partnerships.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Suspense</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20240419102800 +0000" stop="20240419110700 +0000" channel="EN: MBC Persia">
+    <title lang="en">Raz</title>
+    <desc lang="en">Aiming to regain his life after captivity, Amer Badran discovers that seeking revenge on his enemies forces him to go out of his way and forge new partnerships.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Suspense</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20240419110700 +0000" stop="20240419114500 +0000" channel="EN: MBC Persia">
+    <title lang="en">Raz</title>
+    <desc lang="en">Aiming to regain his life after captivity, Amer Badran discovers that seeking revenge on his enemies forces him to go out of his way and forge new partnerships.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Suspense</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20240419114500 +0000" stop="20240419122100 +0000" channel="EN: MBC Persia">
+    <title lang="en">Raz</title>
+    <desc lang="en">Aiming to regain his life after captivity, Amer Badran discovers that seeking revenge on his enemies forces him to go out of his way and forge new partnerships.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Suspense</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20240419122100 +0000" stop="20240419130000 +0000" channel="EN: MBC Persia">
+    <title lang="en">Raz</title>
+    <desc lang="en">Aiming to regain his life after captivity, Amer Badran discovers that seeking revenge on his enemies forces him to go out of his way and forge new partnerships.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Suspense</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20240419130000 +0000" stop="20240419135000 +0000" channel="EN: MBC Persia">
+    <title lang="en">Aghazadeh</title>
+    <desc lang="en">When a psychologist falls in love with the head of an infamous crime family in Istanbul, she takes it upon herself to try and treat them one by one.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20240419135000 +0000" stop="20240419143800 +0000" channel="EN: MBC Persia">
+    <title lang="en">Aghazadeh</title>
+    <desc lang="en">When a psychologist falls in love with the head of an infamous crime family in Istanbul, she takes it upon herself to try and treat them one by one.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20240419143800 +0000" stop="20240419153000 +0000" channel="EN: MBC Persia">
+    <title lang="en">Aghazadeh</title>
+    <desc lang="en">When a psychologist falls in love with the head of an infamous crime family in Istanbul, she takes it upon herself to try and treat them one by one.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20240419153000 +0000" stop="20240419160300 +0000" channel="EN: MBC Persia">
+    <title lang="en">Fareed</title>
+    <desc lang="en">Seeking to give his reckless grandson a lesson, rich patriarch Halis Aga decides to marry him to a girl from his hometown.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E65</episode-num>
+  </programme>
+  <programme start="20240419160300 +0000" stop="20240419163500 +0000" channel="EN: MBC Persia">
+    <title lang="en">Fareed</title>
+    <desc lang="en">Seeking to give his reckless grandson a lesson, rich patriarch Halis Aga decides to marry him to a girl from his hometown.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E66</episode-num>
+  </programme>
+  <programme start="20240419163500 +0000" stop="20240419173000 +0000" channel="EN: MBC Persia">
+    <title lang="en">Mostajere Nemoone</title>
+    <desc lang="en">After getting forced out of her apartment, a young woman moves in with her colleague in a building where all the residents seem to be hiding a dark secret.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20240419173000 +0000" stop="20240419183000 +0000" channel="EN: MBC Persia">
+    <title lang="en">Chandshanbeh Ba Sina</title>
+    <desc lang="en">A late night show challenging cultural and social norms through comedy and satire alongside interviews with celebrity guests and bands.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">E28</episode-num>
+  </programme>
+  <programme start="20240419183000 +0000" stop="20240419200500 +0000" channel="EN: MBC Persia">
+    <title lang="en">Amphibious</title>
+    <desc lang="en">Some people are amphibians; half spirit and half animal - as spirits they belong to the eternal world, but as animals they inhabit time.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20240419200500 +0000" stop="20240419203500 +0000" channel="EN: MBC Persia">
+    <title lang="en">Planet Action</title>
+    <desc lang="en">From cowboy shoot-outs, to exploding cars, fights in space, and roaring monsters, Planet Action takes you behind the scenes of the best action movies released.(n)</desc>
+    <date>2024</date>
+    <category lang="en">Infotainment</category>
+    <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20240419203500 +0000" stop="20240419213000 +0000" channel="EN: MBC Persia">
+    <title lang="en">Chandshanbeh Ba Sina</title>
+    <desc lang="en">A late night show challenging cultural and social norms through comedy and satire alongside interviews with celebrity guests and bands.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">E28</episode-num>
+  </programme>
+  <programme start="20240419213000 +0000" stop="20240419220500 +0000" channel="EN: MBC Persia">
+    <title lang="en">Fareed</title>
+    <desc lang="en">Seeking to give his reckless grandson a lesson, rich patriarch Halis Aga decides to marry him to a girl from his hometown.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E65</episode-num>
+  </programme>
+  <programme start="20240419220500 +0000" stop="20240419224000 +0000" channel="EN: MBC Persia">
+    <title lang="en">Fareed</title>
+    <desc lang="en">Seeking to give his reckless grandson a lesson, rich patriarch Halis Aga decides to marry him to a girl from his hometown.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <episode-num system="onscreen">E66</episode-num>
+  </programme>
+  <programme start="20240419224000 +0000" stop="20240419233000 +0000" channel="EN: MBC Persia">
+    <title lang="en">Mostajere Nemoone</title>
+    <desc lang="en">After getting forced out of her apartment, a young woman moves in with her colleague in a building where all the residents seem to be hiding a dark secret.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20240419233000 +0000" stop="20240419235959 +0000" channel="EN: MBC Persia">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240420000000 +0000" stop="20240420010500 +0000" channel="EN: MBC Persia">
+    <title lang="en">Amphibious</title>
+    <desc lang="en">Some people are amphibians; half spirit and half animal - as spirits they belong to the eternal world, but as animals they inhabit time.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20240420010500 +0000" stop="20240420023500 +0000" channel="EN: MBC Persia">
+    <title lang="en">Crazy/Beautiful</title>
+    <desc lang="en">When the troubled daughter of a wealthy congressman makes a play for the attentions of a straight-A student, her rebellious flirtation soon blossoms into true romance but her self-destructive tendencies threaten his ambitions.(n)</desc>
+    <date>2001</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20240420023500 +0000" stop="20240420042500 +0000" channel="EN: MBC Persia">
+    <title lang="en">Session 9</title>
+    <desc lang="en">Five men venture into the abandoned Danvers State Mental Hospital, a mysterious asylum that holds dark and evil secrets – but so do each of the visitors.(n)</desc>
+    <date>2001</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+  </programme>
+  <programme start="20240420042500 +0000" stop="20240420055100 +0000" channel="EN: MBC Persia">
+    <title lang="en">The Shape Of Things</title>
+    <desc lang="en">An art student, seeking to make a statement, manipulates a young man by making him fall in love with her and then \"reshaping\" him physically and emotionally as if he were a human sculpture.(n)</desc>
+    <date>2003</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20240419000000 +0000" stop="20240419000500 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419000500 +0000" stop="20240419010000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Hour Of Discussion</title>
+    <desc lang="en">The roundtable discussion brings together field experts previously featured on Al Arabiya.(n)</desc>
+    <date>2024</date>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">E35</episode-num>
+  </programme>
+  <programme start="20240419010000 +0000" stop="20240419010500 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419010500 +0000" stop="20240419020000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Outside The Box</title>
+    <desc lang="en">A talk show tackling major news topics Al Arabiya-style.(n)</desc>
+    <date>2024</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">E35</episode-num>
+  </programme>
+  <programme start="20240419020000 +0000" stop="20240419020500 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419020500 +0000" stop="20240419030000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">History Uncovered</title>
+    <desc lang="en">This documentary revisits key moments in the 20th century from a new perspective, shedding light on elements that have been forgotten or sometimes overshadowed.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20240419030000 +0000" stop="20240419030500 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419030500 +0000" stop="20240419040000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">18-04-2024</title>
+    <desc lang="en">18-04-2024.(n)</desc>
+    <date>2024</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2023/Amjad/jun/FIL_MARMA_thump_e/original/FIL_MARMA_thump_e.jpg" />
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme start="20240419040000 +0000" stop="20240419043000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419043000 +0000" stop="20240419050000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419050000 +0000" stop="20240419053000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419053000 +0000" stop="20240419060000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Direct Question</title>
+    <desc lang="en">Hosted by Khalid Madkhali, this talk show shines a light on a wide range of social issues of concern to the Arab audience.(n)</desc>
+    <date>2024</date>
+    <category lang="en">Talk Show</category>
+    <category lang="en">Political</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2024/Amjad/jan/SOAL_MUBASHER_Thump-e/original/SOAL_MUBASHER_Thump-e.jpg" />
+    <episode-num system="onscreen">S2024 E11</episode-num>
+  </programme>
+  <programme start="20240419060000 +0000" stop="20240419063000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419063000 +0000" stop="20240419070000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Other Dimension</title>
+    <desc lang="en">Egypt's Response To Rumours About Its Regime.(n)</desc>
+    <date>2024</date>
+    <category lang="en">Political</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://shahid.mbc.net/mediaObject/slider/Razik_Slider/Saba7_AlArabiya/Other-Dim/albod_ala5r_thump_EN/original/albod_ala5r_thump_EN.jpg" />
+    <episode-num system="onscreen">S2024 E9</episode-num>
+  </programme>
+  <programme start="20240419070000 +0000" stop="20240419073000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419073000 +0000" stop="20240419080000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Political Memory</title>
+    <desc lang="en">Taher Barakeh takes viewers on a trip down memory lane with prominent Arab and international figures sharing some of their most poignant political stories on the show.(n)</desc>
+    <date>2011</date>
+    <category lang="en">Political</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/Alzakra-th-Logo0/original/Alzakra-th-Logo0.jpg" />
+    <episode-num system="onscreen">S1 E434</episode-num>
+  </programme>
+  <programme start="20240419080000 +0000" stop="20240419090000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419090000 +0000" stop="20240419100000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419100000 +0000" stop="20240419100500 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419100500 +0000" stop="20240419110000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">The Weekend Show</title>
+    <desc lang="en">The Weekend Show.(n)</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20240419110000 +0000" stop="20240419120000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419120000 +0000" stop="20240419130000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419130000 +0000" stop="20240419140000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419140000 +0000" stop="20240419143000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419143000 +0000" stop="20240419150000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Direct Question</title>
+    <desc lang="en">Hosted by Khalid Madkhali, this talk show shines a light on a wide range of social issues of concern to the Arab audience.(n)</desc>
+    <date>2024</date>
+    <category lang="en">Political</category>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20240419150000 +0000" stop="20240419153000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419153000 +0000" stop="20240419160000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Ma'alem</title>
+    <desc lang="en">Narrative tales from the heart of cities told in a storyteller's style, shedding light on key figures tied to the setting of the story.(n)</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20240419160000 +0000" stop="20240419170000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419170000 +0000" stop="20240419180000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419180000 +0000" stop="20240419180500 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419180500 +0000" stop="20240419190000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Mahal Niqash</title>
+    <desc lang="en">A live talk show exploring controversial topics and issues.(n)</desc>
+    <date>2024</date>
+    <category lang="en">News</category>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20240419190000 +0000" stop="20240419191500 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419191500 +0000" stop="20240419200000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Political Memory</title>
+    <desc lang="en">From presidents and ministers to advisors and counsellors, the talk show features former prominent figures to shed light on significant events they witnessed closely.(n)</desc>
+    <date>2024</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">Political</category>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20240419200000 +0000" stop="20240419210000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419210000 +0000" stop="20240419210500 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419210500 +0000" stop="20240419220000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Sports News</title>
+    <desc lang="en">Satisfying the needs of sports enthusiasts, Al Arabiya features specialized sports programs which aim to provide in-depth news and analysis on regional and international events.(n)</desc>
+    <date>2024</date>
+    <category lang="en">News</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E45</episode-num>
+  </programme>
+  <programme start="20240419220000 +0000" stop="20240419220500 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419220500 +0000" stop="20240419230000 +0000" channel="EN: Al Arabiya">
+    <title lang="en">When Titans Clash: A New World Order</title>
+    <desc lang="en">China-US rivalry continues to dominate global headlines, and it’s become ever more urgent in the context of Ukraine, while China-Europe relationship is now at its worst.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Political</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20240419230000 +0000" stop="20240419233300 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Al Arabiya News</title>
+    <desc lang="en">Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240419233300 +0000" stop="20240419235959 +0000" channel="EN: Al Arabiya">
+    <title lang="en">TV guide is not available</title>
+    <desc lang="ar">(n)</desc>
+  </programme>
+  <programme start="20240420000000 +0000" stop="20240420000700 +0000" channel="EN: Al Arabiya">
+    <title lang="en">Direct Question</title>
+    <desc lang="en">Hosted by Khalid Madkhali, this talk show shines a light on a wide range of social issues of concern to the Arab audience.(n)</desc>
+    <date>2024</date>
+    <category lang="en">Political</category>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">E12</episode-num>
   </programme>
 </tv>
