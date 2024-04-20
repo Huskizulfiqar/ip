@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>EPG Scraper</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            // Function to fetch and update EPG data
+            function updateEPGData() {
+                $.get("https://freeview.com.au/tv-guide", function(data) {
+                    // Parse the data and extract the EPG information
+                    // var epgData = $(data).find('.epg-container').text();
+                    // Update the display area with the new EPG data
+                    // $('#epg-data').text(epgData);
+                    console.log("EPG data updated.");
+                });
+            }
+
+            // Initial update
+            updateEPGData();
+
+            // Update EPG data every day (in milliseconds)
+            setInterval(updateEPGData, 24 * 60 * 60 * 1000); // 24 hours
+        });
+    </script>
+</head>
+<body>
+    <!-- Display area for EPG data -->
+    <div id="epg-data">
+        <!-- EPG data will be displayed here -->
+    </div>
+</body>
+</html>
